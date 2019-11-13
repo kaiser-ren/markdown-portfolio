@@ -1,1 +1,8 @@
-Replace this with a link to your a GitHub or social media profile.
+# This is a text for link adding
+ 
+[GitHub](https://github.com)
+
+
+[LinkedIn](https://linkedin.com)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
